@@ -13,6 +13,9 @@ public class myProgram {
 		System.out.println("Hello " + name);
 		String string = new String("This is a string");
 		System.out. println(string + " :) ");
+		
+		String easier = "Easy way to define string" + " :)"; 
+		System.out.println(easier);
 	}
 	
 
@@ -23,6 +26,7 @@ public class myProgram {
 //class contains everything and has members
 //methods - do something
 //properties - store something (variables)
+//literals - value
 
 //access modifier (public/private) - who can use it
 //static - No instance of a class needed (class method)
