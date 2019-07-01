@@ -11,6 +11,8 @@ public class myProgram {
 		String name = scanner.nextLine();
 		
 		System.out.println("Hello " + name);
+		String string = new String("This is a string");
+		System.out. println(string + " :) ");
 	}
 	
 
@@ -29,3 +31,5 @@ public class myProgram {
 //parameter and arguments: 
 //argument: what you pass into a method
 //parameter: variable that will store the data
+
+//expression: evaluates into a value
